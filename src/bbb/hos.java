@@ -14,7 +14,7 @@ public class hos {
 	                moneyEachDay *= 2;
 	              
 	            sum+=moneyEachDay;
-	              
+	          //a
 	            System.out.println(i + " 天之后，总数是: " + sum );
 	        }
 	    }
